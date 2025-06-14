@@ -22,10 +22,3 @@ You can open this notebook using:
 - Google Colab: [Open in Colab](https://colab.research.google.com/)
 - Jupyter Notebook locally
 
-## ✅ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-# cloudcomputehw
